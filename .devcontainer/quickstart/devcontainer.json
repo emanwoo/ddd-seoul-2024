@@ -22,7 +22,7 @@
         "README.md"
       ],
       "repositories": {
-        "<USERNAME>/<USERNAME>.github.io": {
+        "emanwoo/emanwoo.github.io": {
           "permissions": "write-all"
         }
       }
